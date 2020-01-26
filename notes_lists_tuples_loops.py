@@ -27,6 +27,22 @@ print("Range(5): " + str(x))
 x = list(range(1, 4))
 print("Range(1, 4): " + str(x))
 
+print("\r\nZip() Function for Lists")
+# zip(x, y) combines list x with list y
+scores = [90, 70, 100]
+names = ["Alice", "Jack", "Charlie"]
+print("scores = " + str(scores))
+print("names = " + str(names))
+z = list(zip(scores, names))
+print("Zipped List = " + str(z))
+print("Sorted List = " + str(sorted(z)))
+
+print("### Unzip the Sorted List ###")
+sorted_scores, sorted_names = zip(*z)
+# to unzip, use zip(*zipped_list)
+print("sorted_scores = " + str(sorted_scores))
+print("sorted_names = " + str(sorted_names))
+
 
 
 print("\r\nTuples")
@@ -54,3 +70,56 @@ sides = [3, 4]
 print("math.hypot(3, 4): " + str(math.hypot(3, 4)))
 print("sides: " + str(sides))
 print("math.hypot(*sides): " + str(math.hypot(*sides)))
+
+
+
+print("\r\nFor Loops")
+x = [5, 2, 1, 4, 7]
+total = 0
+print("for i in x:")
+for i in x:
+    print(i)
+    total += i
+print("total = {0}".format(total))
+
+x = ["apple", "orange", "pineapple"]
+print("for i in range(len(x)):")
+for i in range(len(x)):
+    print(x[i])
+
+print("for i, entry in enumerate(x):")
+for i, entry in enumerate(x):
+    # enumerate() provides two iterators
+    print(i, ":", entry)
+    
+x = [0, 1, 2, 3, 4, 5]
+print("x = " + str(x))
+print("[i**2 for i in x]")
+y = [i**2 for i in x]
+print("y = " + str(y))
+
+print("\r\nFibonacci Sequence Example")
+x = [1, 1]
+N = 10   # number of values
+for i in range(N - 2):
+    x.append(x[-2] + x[-1])
+print(x)
+
+print("\r\nSum of All Numbers 1-100 Example")
+print("sum([math.sqrt(i) for i in range(1, 101)]) = " + str(sum([math.sqrt(i) for i in range(1, 101)])))
+
+print("\r\nNested For Loops")
+x = [1, 2, 3]
+y = ["apple", "applesauce", "apple juice"]
+for i in x:
+    for j in y:
+        print(i, j)
+    print("finished the inner loop for {0}".format(i))
+    
+print("\r\nNested For Loop Example")
+x = ["FBI", "CIA", "NBA", "NFL", "MLB"]
+for acronym in x:
+    edited = ""
+    for letter in acronym:
+        edited += letter + "."
+    print(edited)

@@ -23,7 +23,7 @@ print("a\\tbcd\\nefg\\\"hij\\' = a\tbcd\nefg\"hij\'")
 
 
 # can use triple quotes to print strings on multiple lines
-print("\r\nasy Strings Across Multiple Lines")
+print("\r\nStrings Across Multiple Lines")
 text = """Test
 Message
 with
