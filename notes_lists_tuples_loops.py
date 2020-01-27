@@ -123,3 +123,11 @@ for acronym in x:
     for letter in acronym:
         edited += letter + "."
     print(edited)
+    
+print("\r\nQ2.4.4: Digits of Pi Example")
+odd = 1
+my_pi = 0
+for i in range(19):
+    my_pi += math.sqrt(12) * (-1)**i * (1 / (3**i * odd))
+    odd += 2
+print("First 20 digits of pi: " + str(my_pi))
