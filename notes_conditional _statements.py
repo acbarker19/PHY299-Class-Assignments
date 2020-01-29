@@ -1,3 +1,5 @@
+import math
+
 print("If/Elif/Else Statements")
 name = 12243
 # name = "John"
@@ -49,6 +51,24 @@ while b:
     a, b = b, a % b
 print("Greatest common divisor = ", a)
 
+print("\r\nP2.5.2")
+H = 0
+c = 0.01
+Ka = 1.78e-5
+TOL = 1e-10
+dPH = 1
+counter = 0
+while dPH > TOL:
+    Hp = math.sqrt(Ka * (c - H))
+    dPH = Hp - H
+    H = Hp
+    counter += 1
+    if counter > 100:
+        break
+print("PH: {0:.2f}".format(-math.log(H, 10)))
+
+
+
 print("\r\nBreak Command")
 # Ends loop
 i = 0
@@ -77,6 +97,8 @@ for i in range(10):
     else:
         print(i, " is odd")
         
+        
+    
 print("\r\nQ2.5.1")
 a = [2, 4, 10, 6, 8, 4]
 low = min(a)
