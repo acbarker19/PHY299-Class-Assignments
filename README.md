@@ -6,9 +6,14 @@ This class utilizes libraries from Anaconda found here: https://www.anaconda.com
 It contains code for the following:
 - Homework Assignment 1
 - Homework Assignment 2
+- Homework Assignment 3
+- Homework Assignment 4
+- Excercise about binding energy
 - Notes about booleans
 - Notes about conditional statements
 - Notes about file input and output
+- Notes about functions
+- Notes about graphing data
 - Notes about lists, tuples, and loops
 - Notes about number data types
 - Notes about the string data type
