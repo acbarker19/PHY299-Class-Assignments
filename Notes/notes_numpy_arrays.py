@@ -172,6 +172,7 @@ plt.ylabel("Height")
 plt.show()
 
 
+
 print("\r\nCalculus")
 # 6 - 5x + x^2
 p = Polynomial([6, -5, 1])
