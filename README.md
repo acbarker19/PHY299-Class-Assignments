@@ -1,5 +1,5 @@
 # PHY299 Class Assignments
-A repository containing multiple small projects from my physics class, Scientific Modelling & Data Analysis, at the University of Mount Union that was taught by Dr. Colin Campbell.
+A repository containing multiple small projects from my physics class, Scientific Modeling & Data Analysis, at the University of Mount Union that was taught by Dr. Colin Campbell.
 
 This class utilizes libraries from Anaconda found here: https://www.anaconda.com/
 
