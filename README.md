@@ -39,7 +39,7 @@ It contains code for the following:
 - `Barker HW13-2`: Plotted temperature data from 1995 to 2017 from many areas and compared them
 - `Barker HW14-1`: Plotted temperature data from 1995 to 2017 from many areas and found the parameters to best fits the curve of data
 - `Barker HW14-2`
-### In-Class Assignments
+### In-Class Activities
 - Exercise about graphing binding energy
 - Exercise about binding energy
 - Exercise about graphing points to determine area under a curve
