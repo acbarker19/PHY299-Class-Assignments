@@ -8,13 +8,19 @@ Some exercises and problems come from "Learning Scientific Programming with Pyth
 Some code was provided by Dr. Colin Campbell and edited by Alec Barker.
 
 It contains code for the following:
-- Homework Assignment 1
-- Homework Assignment 2
-- Homework Assignment 3
+### Homework
+- `Barker HW1`: Simple math calculations and comparisons
+- `Barker HW2`: Modifying substrings and displaying values in a grid using an array
+- `Barker HW3-1`: Zipping two arrays together and sorting
+- `Barker HW3-2`: Looping numbers in an array and findind the product of every number except the current one
+- `Barker HW3-3`: Finding factorials using only even or odd numbers
+- `Barker HW3-4`: Demonstrated Benford's Law with the Fibonacci Sequence
 - Homework Assignment 4
+### In-Class Assignments
 - Exercise about graphing binding energy
 - Exercise about binding energy
 - Exercise about graphing points to determine area under a curve
+### Notes
 - Notes about booleans
 - Notes about conditional statements
 - Notes about file input and output
