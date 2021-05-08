@@ -10,12 +10,35 @@ Some code was provided by Dr. Colin Campbell and edited by Alec Barker.
 It contains code for the following:
 ### Homework
 - `Barker HW1`: Simple math calculations and comparisons
-- `Barker HW2`: Modifying substrings and displaying values in a grid using an array
-- `Barker HW3-1`: Zipping two arrays together and sorting
-- `Barker HW3-2`: Looping numbers in an array and findind the product of every number except the current one
-- `Barker HW3-3`: Finding factorials using only even or odd numbers
-- `Barker HW3-4`: Demonstrated Benford's Law with the Fibonacci Sequence
-- Homework Assignment 4
+- `Barker HW2`: Modified substrings and displayed values in a grid using an array
+- `Barker HW3-1`: Zipped two arrays together and sorted them
+- `Barker HW3-2`: Looped numbers in an array and found the product of every number except the current one
+- `Barker HW3-3`: Found factorials using only even or only odd numbers
+- `Barker HW3-4`: Demonstrated [Benford's Law](https://en.wikipedia.org/wiki/Benford%27s_law) with the [Fibonacci Sequence](https://en.wikipedia.org/wiki/Fibonacci_number)
+- `Barker HW4-1`: Calculated [Gauss's Constant](https://en.wikipedia.org/wiki/Gauss%27s_constant)
+- `Barker HW4-2`: Listed prime numbers to 10,000
+- `Barker HW4-3`: Estimated area under a curve using random points
+- `Barker HW4-4`: Interactive two player tic-tac-toe game
+- `Barker HW5-1`: Calculated the [Earth Similarity Index (ESI)](https://en.wikipedia.org/wiki/Earth_Similarity_Index) of multiple planets from a text file
+- `Barker HW6-1`: Found if a number is a [Harshad number](https://en.wikipedia.org/wiki/Harshad_number)
+- `Barker HW6-2`: Calculated horizontal range and height of a 2D projectile
+- `Barker HW6-3`: Set up a system to query information from a text file of planetary information
+- `Barker HW7-1`: Plotted curves on a graph
+- `Barker HW7-2`: Plotted an [Archimedean spiral](https://en.wikipedia.org/wiki/Archimedean_spiral) and [logarithmic spiral](https://en.wikipedia.org/wiki/Logarithmic_spiral)
+- `Barker HW7-3`: Plotted the range and height of 2D projectiles at various angles
+- `Barker HW8-1`: Displayed planetary information from a text file by using a dictionary
+- `Barker HW8-2`: Compare values in two arrays
+- `Barker HW9-1`: Drew a [Mandelbrot set](https://en.wikipedia.org/wiki/Mandelbrot_set)
+- `Barker HW10-1`
+- `Barker HW10-2`: Plotted Dow Jones Industrial Average Index with various filters applied
+- `Barker HW11-1`
+- `Barker HW12-1`: Computed definite integrals
+- `Barker HW12-2`: Computed a definite integral
+- `Barker HW12-3`: Computed a triple definite integral
+- `Barker HW13-1`: Graphed uniform and normal distributions
+- `Barker HW13-2`: Plotted temperature data from 1995 to 2017 from many areas and compared them
+- `Barker HW14-1`: Plotted temperature data from 1995 to 2017 from many areas and found the parameters to best fits the curve of data
+- `Barker HW14-2`
 ### In-Class Assignments
 - Exercise about graphing binding energy
 - Exercise about binding energy
