@@ -37,7 +37,7 @@ It contains code for the following:
 - `Barker HW12-3`: Computed a triple definite integral
 - `Barker HW13-1`: Graphed uniform and normal distributions
 - `Barker HW13-2`: Plotted temperature data from 1995 to 2017 from many areas and compared them
-- `Barker HW14-1`: Plotted temperature data from 1995 to 2017 from many areas and found the parameters to best fits the curve of data
+- `Barker HW14-1`: Plotted temperature data from 1995 to 2017 from many areas and found the parameters that best fits the curve of data
 - `Barker HW14-2`
 ### In-Class Activities
 - Exercise about graphing binding energy
@@ -52,5 +52,3 @@ It contains code for the following:
 - Notes about lists, tuples, and loops
 - Notes about number data types
 - Notes about the string data type
-
-Various examples of working code are shown in notes and in homework assignments.
