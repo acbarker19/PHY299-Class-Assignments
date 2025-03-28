@@ -1,0 +1,16 @@
+# Data for the Hubble constant from Abell (1950)
+# Taken from http://teachers.yale.edu/curriculum/viewer/initiative_05.04.09_u
+# Columns are: Object name; distance (MPc); velocity (km/s)
+Pegasus I,38,3810
+Pegasus U,46,3860
+Perseus,53,5430
+Perseus,80,4960
+Coma,58,6657
+Coma,120,7200
+Hercules,105,10400
+Pegasus II,145,12800
+Gemini,300,23400
+Gemini,368,22400
+Leo,307,19200
+Ursa Major II,457,40400
+Ursa Major II,552,40000
